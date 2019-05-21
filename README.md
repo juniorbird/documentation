@@ -7,7 +7,7 @@ We’re working together. That’s awesome! Also awesome is if I can make your l
 
 _(If you’d like to write your own README and make all the above reciprocal, that would be equally awesome!)_
 
-This document is definitely not a substitute for face-to-face meetings, or even non-negotiable; I’m happy to discuss anything in here.  It’s just a quickstart.
+This document is definitely not a substitute for face-to-face meetings, or even non-negotiable; I’m happy to discuss anything in here.  It’s just a quickstart. If you've worked with me and think I said something here I don't hold up in life, make a PR against this document.
 
 # Why to Read This
 
@@ -111,4 +111,4 @@ If it seems like I don’t hear you sometimes, I’m not ignoring you. I just do
 
 I tend to use terms like “I expect so” or “it would surprise me if…” rather than “yes” or “no.” I only say “yes” or “no” when I mean “absolutely yes” or “absolutely no.” I see the world as a distribution of outcomes, and won’t say “yes” or “no” unless we’re far enough out on the tails of those possible outcomes; otherwise, I’ll say something that’s within my level of confidence. If you want to pin me down to a “yes” or “no”, just ask; I’m fully capable of giving you that answer.
 
-Thanks for reading, and I’m excited to work with you!.
+Thanks for reading, and I’m excited to work with you!
