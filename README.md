@@ -1,4 +1,6 @@
-# How to Use This Document
+# README for Wade Armstrong
+
+## How to Use This Document
 
 We’re working together. That’s awesome! Also awesome is if I can make your life as a developer easy.  Here’s some basic info about me right out there, to help you:
 
@@ -9,12 +11,12 @@ _(If you’d like to write your own README and make all the above reciprocal, th
 
 This document is definitely not a substitute for face-to-face meetings, or even non-negotiable; I’m happy to discuss anything in here.  It’s just a quickstart. If you've worked with me and think I said something here I don't hold up in life, make a PR against this document.
 
-# Why to Read This
+## Why to Read This
 
 We’re teammates. I am also your manager, so it’s my responsibility to put you in a position to succeed and to prepare you effectively for the challenges you will have in this role. One such challenge is figuring out what the heck your manager is on about; similarly, I need to help you succeed in getting what you need from our relationship. 
 
-# What Do I Do Around Here Anyway?
-## What the Org Chart Says My Job Is
+## What Do I Do Around Here Anyway?
+### What the Org Chart Says My Job Is
 
 I’m a Team Lead, which means that my job is to:
 
@@ -27,7 +29,7 @@ I’m a Team Lead, which means that my job is to:
 * Providing the resources to help us all learn new skills and improve as developers, and
 * Writing some code, if there’s time left over
 
-## What Else I Think My Job Is
+### What Else I Think My Job Is
 
 Ultimately, I’m a tool that increases the productivity of my team, not the one who actually makes things happen here. In my mind, that means that I should:
 
@@ -39,14 +41,14 @@ Ultimately, I’m a tool that increases the productivity of my team, not the one
 * Encourage a collaborative, supportive environment, in which all team members are welcomed
 * Make the team a psychologically safe place for all its members
 
-## What I _Don’t_ Do
+### What I _Don’t_ Do
 
 * I’m not the official decision-maker for the team
 * I’m not the best developer on the team
 * I’m not the only [code review, architectural advice, etc.] that matters
 * I’m not the only conduit of information between this team and other teams at Synacor
 
-# My Style
+## My Style
 
 I’m an introvert, so I can be withdrawn (or, um, awkward) at the best of times. However, even if I’m quiet, and have headphones on, that doesn’t mean that I’m not available for you. Feel free to interrupt me at any time. If I’m on a phone call, I’ll let you know. 
 
@@ -62,11 +64,11 @@ I believe that successful relationships can only be symmetrical; I can’t ask m
 
 I’m much better at positive reinforcement than negative reinforcement (and enjoy it much more). I will give you all of the support you need to do your job, overcome your impostor syndrome, learn new skills, and overcome challenges in your life. If you’re the type of person who needs negative reinforcement -- for instance, if my best response to you not completing a ticket is “don’t do something dumb like that again,” rather than “I believe in your ability to get tickets done, let’s find a way to make that happen next sprint!” then you should let me know.
 
-# Diversity and Inclusion
+## Diversity and Inclusion
 
 Diversity and inclusion are two of my top priorities as a manager and a human being. But I come to this job -- like all human beings -- with biases. I will always try my best to be inclusive and to foster an inclusive environment, so please let me know if there are ways I can improve. If you’re not comfortable bringing them up to me directly, feel free to provide your feedback via a co-worker or my manager. _It is always unacceptable if I or anyone on our team acts in a biased way against you, and it is always my job to stop it, whether I’m the bad actor, a teammate is, or my boss’s boss is._
 
-# My Schedule
+## My Schedule
 
 I don’t believe in work-life balance. You can change your job tomorrow; you can’t change your life tomorrow. That means life always has to trump work. 
 
@@ -76,7 +78,7 @@ If I communicate with you after-hours, for instance in HipChat, unless I ask for
 
 I have a lot of meetings on my calendar, which I keep public. If you want to set a meeting with me, set it for the open time that works best for you.
 
-# How to Best Communicate With Me
+## How to Best Communicate With Me
 
 If you want any kind of a fast turnaround, please HipChat me. I’ll check HipChat as soon as I’m able to give anything besides my current task my full attention. E-mail is fine, and I try to run on inbox zero, but it could be 24 hours before I really put any thought into your e-mail. In person is great too, but I’m almost always going to be clearer in writing than in person, so if you want a detailed technical answer either HipChat me, or talk to me and ask for a summary of our discussion via e-mail.
 
@@ -84,7 +86,7 @@ If I’m on a call or in a meeting, then HipChat me; I’ll check it as soon as 
 
 If something is really urgent, text me. You can get my number from the on-call list if you don’t have it already.
 
-# 1:1s
+## 1:1s
 
 I’m a big believer in 1:1s. If you’re remote, we’ll have a 1:1 every 2 weeks; if you’re in LA, we’ll have a 1:1 monthly, since we’ll be working face-to-face continuously (if we’re doing it right). Our 1:1 is _your_ meeting -- I have stuff to talk about, and sometimes I’ll lead with that, but mostly my goal is to make sure that you’re enjoying and growing in your job.
 
@@ -92,7 +94,7 @@ If I have concerns about your performance, I will bring them up no later than in
 
 I will do everything possible to not reschedule our 1:1s; they are my highest-priority meeting. If I feel you’re in the zone, or the weeds, I may suggest we move our meeting for your convenience. 
 
-# How to Help Me
+## How to Help Me
 
 If you see me doing something you’re interested in, please feel free to ask to be involved. I would love to hand off any appropriate task to you.
 
@@ -101,7 +103,7 @@ If you’re excited about a project, and would like to own it, I’d be more tha
 If you don’t feel I’m living up to any of my commitments, please do let me know, either directly or through a teammate/my manager. I’m always trying to improve.
 
 
-# What People Misunderstand About Me
+## What People Misunderstand About Me
 
 I’m calm, which means that I won’t freak out about the issue you just brought up to me. This is not because I don’t feel urgent about the issue, but because it benefits none of us if I freak out.  For serious issues, one of my favorite quotes comes into play: “We have a lot to do, and very little time, so we must work slowly.”
 
