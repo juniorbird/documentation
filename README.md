@@ -109,7 +109,7 @@ I’m calm, which means that I won’t freak out about the issue you just brough
 
 I love a process, and sometimes this leads to the conclusion that I don’t care so much about creativity. In my experience, a good process makes it easier for people to spend their energies in the most creative and interesting ways.
 
-If it seems like I don’t hear you sometimes, I’m not ignoring you. I just don’t hear perfectly, especially with any background noise! Just come closer or, if needed, switch to chat.
+If it seems like I don’t hear you sometimes, I’m not ignoring you. I have an auditory processing disorcer, which means that I cannot always process the sound of people talking to me, especially with loud background noise. Just come closer (in a very loud place, I'll even try to read your lips), or, if needed, switch to chat.
 
 I tend to use terms like “I expect so” or “it would surprise me if…” rather than “yes” or “no.” I only say “yes” or “no” when I mean “absolutely yes” or “absolutely no.” I see the world as a distribution of outcomes, and won’t say “yes” or “no” unless we’re far enough out on the tails of those possible outcomes; otherwise, I’ll say something that’s within my level of confidence. If you want to pin me down to a “yes” or “no”, just ask; I’m fully capable of giving you that answer.
 
