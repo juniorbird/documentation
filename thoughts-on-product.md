@@ -26,7 +26,7 @@ Rough out features early; design and dev in parallel as much as possible; always
 
 This drives a workflow looking something like this:
 
-!Slide1.gif|border=1!
+![A flowchart](Slide1.gif)
 
 ## Writing Good Stories
 
