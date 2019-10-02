@@ -113,4 +113,8 @@ If it seems like I don’t hear you sometimes, I’m not ignoring you. I have an
 
 I tend to use terms like “I expect so” or “it would surprise me if…” rather than “yes” or “no.” I only say “yes” or “no” when I mean “absolutely yes” or “absolutely no.” I see the world as a distribution of outcomes, and won’t say “yes” or “no” unless we’re far enough out on the tails of those possible outcomes; otherwise, I’ll say something that’s within my level of confidence. If you want to pin me down to a “yes” or “no”, just ask; I’m fully capable of giving you that answer.
 
+I have no idea how to end a conversation. If you think I'm walking away or otherwise ignoring you in the middle of a conversation, it's because I misunderstood that it was over. Please let me know, I'll feel bad and be happy to jump right back in!
+
+I can be cranky. It's not you, it's me. My crankiness almost always has nothing to do with anything you've said or done. I do try to be less cranky, but I'm not yet succeeding at that. I actually probably like you fine.
+
 Thanks for reading, and I’m excited to work with you!
